@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🌱 I’m currently learning anything cool
+- 👯 hobby: coding,photography,game,travel
+- 📫 How to reach me: xuzhiceng@Gmail.com
+
+
+----------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXuH&layout=compact)](https://github.com/Christmas/github-readme-stats)
+---------------
