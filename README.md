@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning anything cool
 - 👯 hobby: coding,photography,game,travel
-- 📫 How to reach me: xuzhiceng@Gmail.com
+- 📫 How to reach me: xuzhiceng@Gmail.com | vx:15722923256
 
 
 ----------------
