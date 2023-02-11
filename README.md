@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 
 ----------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXuH&layout=compact)](https://github.com/Christmas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXuH)](https://github.com/Christmas/github-readme-stats)
 ---------------
